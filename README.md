@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/y_abdrakhmanov" target="blank"><img src="https://img.shields.io/twitter/follow/y_abdrakhmanov?logo=twitter&style=for-the-badge" alt="y_abdrakhmanov" /></a> </p>
 
-- 📫 How to reach me **yelnur.abdrakhmanov@gmail.com**
+📫 My email <a href="mailto:elnur.kazakhstan@gmail.com">elnur.kazakhstan@gmail.com</a>
 
-- 📄 Know about my experiences [https://hh.kz/resume/7b85338eff0c0c02d10039ed1f364c67417861](https://hh.kz/resume/7b85338eff0c0c02d10039ed1f364c67417861)
+📄 My CV on Headhunter (RU) [https://hh.kz/resume/7b85338eff0c0c02d10039ed1f364c67417861](https://hh.kz/resume/7b85338eff0c0c02d10039ed1f364c67417861)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
