@@ -5,7 +5,7 @@
 
 📫 My email <a href="mailto:elnur.kazakhstan@gmail.com">elnur.kazakhstan@gmail.com</a>
 
-📄 My CV on Headhunter (RU) [https://hh.kz/resume/7b85338eff0c0c02d10039ed1f364c67417861](https://hh.kz/resume/7b85338eff0c0c02d10039ed1f364c67417861)
+📄 My CV on Headhunter (RU) [click](https://hh.kz/resume/7b85338eff0c0c02d10039ed1f364c67417861)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
