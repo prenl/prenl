@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/y_abdrakhmanov" target="blank"><img src="https://img.shields.io/twitter/follow/y_abdrakhmanov?logo=twitter&style=for-the-badge" alt="y_abdrakhmanov" /></a> </p>
 
-📫 My email <a href="mailto:elnur.kazakhstan@gmail.com">elnur.kazakhstan@gmail.com</a>
+📫 My email <a href="mailto:elnur.kazakhstan@gmail.com">yelnur.abdrakhmanov@gmail.com</a>
+
+💬 My telegram <a href="https://t.me/y_abdrakhmanov">@y_abdrakhmanov</a>
 
 📄 My CV (EN) [click](https://sus.kz/yelnurabdrakhmanov)
 
